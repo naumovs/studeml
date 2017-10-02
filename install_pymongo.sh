@@ -1,0 +1,1 @@
+/usr/bin/anaconda/bin/conda install -c conda-forge -y pymongo
